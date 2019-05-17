@@ -1,4 +1,5 @@
 # nym-rss
+Not Your Momma's RSS
 
 ## Project setup
 ```
